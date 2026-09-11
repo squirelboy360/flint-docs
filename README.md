@@ -8,6 +8,8 @@ Flint is a dark, desktop-first AI coding workspace. The source repository is pri
 
 ## Releases
 
+The current release is [Flint 1.16.0](https://github.com/squirelboy360/flint-docs/releases/tag/v1.16.0).
+
 Each published release includes platform notes and links to the signed or ad-hoc desktop artifacts when available. Release tags use the `vMAJOR.MINOR.PATCH` format.
 
 See [RELEASES.md](RELEASES.md) for the release policy and artifact checklist.
